@@ -5,6 +5,7 @@
     android:layout_height="wrap_content">
 
 
+
     <CheckBox
         android:layout_height="wrap_content"
         android:layout_width="wrap_content"
@@ -19,9 +20,10 @@
         />
 
     <Button
-        android:layout_height="wrap_content"
-        android:layout_width="wrap_content"
-        android:background=""
+        android:layout_height="25dp"
+        android:layout_width="25dp"
+        android:background="@drawable/play_arrow_FILL0_wght400_GRAD0_opsz48"
+
         />
 
 </LinearLayout>
