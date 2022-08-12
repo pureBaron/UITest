@@ -19,6 +19,7 @@
         />
 
     <Button
+        android:id="@+id/playBtn"
         android:layout_height="25dp"
         android:layout_width="25dp"
         android:background="@drawable/ic_play_arrow_fill0_wght400_grad0_opsz48"

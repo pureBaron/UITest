@@ -13,7 +13,7 @@ class MusicAdapter(val list: List<String>) : RecyclerView.Adapter<MusicAdapter.V
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
-        val view = LayoutInflater.from(parent.context).inflate(R.layout.list_item, parent, false)
+        val view = LayoutInflater.from(parent.context).inflate(R.layout.list_itemm, parent, false)
         return ViewHolder(view)
     }
 
